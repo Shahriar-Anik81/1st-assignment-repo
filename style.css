@@ -11,22 +11,60 @@ body {
 .donation {
     background: linear-gradient(rgba(0, 0, 0, 0.856), rgba(23, 8, 75, 0.5)), url(images/f5ba20dd3485404181c0858285fd3ad4.jpeg);
     background-repeat: no-repeat;
-    height: 100vh;
-    background-size: 100% 70%;
-
-
+    height: 75vh;
+    background-size: 100% 100%;
 }
 
-h1 {
+.title {
     color: whitesmoke;
     text-align: center;
     padding: 5%;
     font-size: 50px;
 }
 
-p {
+.short {
     font-size: 25px;
     color: gold;
     text-align: justify;
     text-align: center;
+}
+
+.Ques {
+    background-color: burlywood;
+}
+
+.info {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.cause {
+    color: black;
+    font-size: 25px;
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.mother {
+    display: flex;
+}
+
+.box3 {
+    width: 100%;
+    display: inline-block;
+    position: right;
+    height: 100vh;
+    padding-left: 60%;
+
+}
+
+.box2 {
+    width: 100%;
+    padding-left: 50%;
+    display: inline-block;
+
+
 }
