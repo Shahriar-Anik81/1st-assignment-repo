@@ -9,17 +9,23 @@ body {
 }
 
 .donation {
-    background-image: url(images/assamflood33.jpg);
+    background-image: url(images/f5ba20dd3485404181c0858285fd3ad4.jpeg);
     background-repeat: no-repeat;
     height: 100vh;
-    background-size: 100% 50%;
+    background-size: 100% 70%;
 
 }
 
 h1 {
-    color: red;
+    color: whitesmoke;
     text-align: center;
     padding: 5%;
-
     font-size: 50px;
+}
+
+p {
+    font-size: 25px;
+    color: gold;
+    text-align: justify;
+    text-align: center;
 }
