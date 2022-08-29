@@ -74,47 +74,163 @@ body {
     font-size: 50px;
 }
 
+.situation {
+    margin-left: 5%;
+}
+
 .condition {
     font-size: 50px;
+    margin-left: 5%;
 }
 
 .help {
     display: flex;
     width: 80%;
+    margin-left: 10%;
 
 }
 
 .p {
     width: 25%;
-
-
-    padding-left: 10%;
-}
-
-.q {
-    width: 25%;
-
-
-    padding-left: 10%;
-}
-
-.r {
-    width: 25%;
-
-    padding-left: 10%;
-}
-
-.s {
-    width: 25%;
-    padding-left: 10%;
-
-
-}
-
-a {
     text-decoration: none;
     background: linear-gradient(orange, red);
     font-size: 25px;
     color: black;
     padding: 10px 10px 10px 10px;
+    border: 1px solid red;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+
+}
+
+.q {
+    width: 25%;
+    text-decoration: none;
+    background: linear-gradient(orange, red);
+    font-size: 25px;
+    color: black;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid red;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+
+}
+
+.r {
+    width: 25%;
+    text-decoration: none;
+    background: linear-gradient(orange, red);
+    font-size: 25px;
+    color: black;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid red;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+
+}
+
+.s {
+    width: 25%;
+    text-decoration: none;
+    background: linear-gradient(orange, red);
+    font-size: 25px;
+    color: black;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid red;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+
+}
+
+.header {
+    font-size: 50px;
+}
+
+.g {
+    font-size: 20px;
+    width: 100px;
+    height: 50px;
+}
+
+.h {
+    font-size: 20px;
+    width: 30%;
+    height: 50px;
+}
+
+.w {
+    text-align: center;
+}
+
+.donate {
+    font-size: 40px;
+    text-align: center;
+    display: block;
+}
+
+.plan {
+    display: flex;
+    margin-left: 5%;
+}
+
+.d {
+    width: 20%;
+    display: inline-block;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #D7ECF2;
+}
+
+.e {
+    width: 20%;
+    display: inline-block;
+    margin-left: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #F5D4D4;
+}
+
+.f {
+    width: 20%;
+    display: inline-block;
+    margin-left: 10%;
+    margin-right: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #F3E6E7;
+}
+
+.foot {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background: #000A17;
+    color: #FF6347;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.lives {
+    display: flex;
+    margin-left: 3%;
+}
+
+.image {
+    width: 25%;
+}
+
+.survive {
+    width: 50%;
+    margin-left: 10%;
+    text-align: justify;
+
+}
+
+.t {
+    font-size: 40px;
 }
