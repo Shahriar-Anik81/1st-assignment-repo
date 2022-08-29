@@ -52,19 +52,69 @@ body {
     display: flex;
 }
 
-.box3 {
-    width: 100%;
+.box2 {
+    width: 50%;
     display: inline-block;
     position: right;
-    height: 100vh;
-    padding-left: 60%;
+    padding-top: 4%;
 
 }
 
-.box2 {
+.box1 {
     width: 100%;
-    padding-left: 50%;
     display: inline-block;
+    text-align: justify;
+    padding-right: 2%;
+}
+
+.muslim {
+    text-align: center;
+    font-weight: bold;
+    padding-left: 37%;
+    font-size: 50px;
+}
+
+.condition {
+    font-size: 50px;
+}
+
+.help {
+    display: flex;
+    width: 80%;
+
+}
+
+.p {
+    width: 25%;
 
 
+    padding-left: 10%;
+}
+
+.q {
+    width: 25%;
+
+
+    padding-left: 10%;
+}
+
+.r {
+    width: 25%;
+
+    padding-left: 10%;
+}
+
+.s {
+    width: 25%;
+    padding-left: 10%;
+
+
+}
+
+a {
+    text-decoration: none;
+    background: linear-gradient(orange, red);
+    font-size: 25px;
+    color: black;
+    padding: 10px 10px 10px 10px;
 }
